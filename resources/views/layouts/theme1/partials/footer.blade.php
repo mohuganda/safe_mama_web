@@ -113,7 +113,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12 col-md-12 text-center">
-                    <p class="mb-0">© {{ date('Y') }} Africa CDC. All rights reserved.</p>
+                    <p class="mb-0">© {{ date('Y') }} Ministry of Health. All rights reserved.</p>
                 </div>
             </div>
         </div>
